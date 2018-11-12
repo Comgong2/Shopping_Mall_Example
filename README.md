@@ -1,14 +1,14 @@
-##Simple Example for Online Shopping Mall
+## Simple Example for Online Shopping Mall
 
-* Prerequisites
+# Prerequisites
 ---------------------------------------
 Node.js, MySQL
 
-* Installation Process
+# Installation Process
 ---------------------------------------
 1. npm install
 2. Edit database/config/config.js
 
-* How to Run
+# How to Run
 ---------------------------------------
 npm start
